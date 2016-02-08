@@ -1,0 +1,10 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Trying workflow again",
+  "author": "MikS Digital",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.3.0"
+  }
+}

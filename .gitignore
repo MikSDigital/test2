@@ -1,0 +1,13 @@
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+node_modules
+.tmp
+.sass-cache
+builds/**/images/*
